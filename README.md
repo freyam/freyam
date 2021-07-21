@@ -1,5 +1,8 @@
-[![Header](cat.gif "if i were a cat")](https://freyam.netlify.app/)
+<a>
+  <img align="center" src="./cat.gif" />
+</a>
 
+<br>
 <br>
 
 <a href="https://github.com/freyam/freyam">
