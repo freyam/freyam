@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cat.gif">
+  <!-- <img src="./cat.gif"> -->
 </p>
 
 <!-- <br> -->
