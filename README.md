@@ -11,7 +11,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 ### 🐧 Contributions
 
 -   **Dask ([`dask/dask`](https://github.com/dask/dask))** is a python library providing scalable analytics for big data computations.
-    I worked on the project "[Visualizing the Performance Characteristics of Computations`](https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/)" as part of the Google Summer of Code 2021. My project focuses on improving the visualization of the Graphical and the HTML Representations of Dask computations. I worked on making them more illustrative, engaging, and informative.
+    I worked on the project "[Visualizing the Performance Characteristics of Computations](https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/)" as part of the Google Summer of Code 2021. My project focuses on improving the visualization of the Graphical and the HTML Representations of Dask computations. I worked on making them more illustrative, engaging, and informative.
 
     Some of the features I worked on:
 
