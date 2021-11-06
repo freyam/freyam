@@ -1,4 +1,4 @@
-I love to bring ideas to reality! I am a sophomore at [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). Everywhere I go, I bring a smile, motivation, and cute pictures of dogs and cats. You'll find me eager to get my hands dirty and keen to get started on something fresh and intriguing.
+Hi, I am Freyam. I love to bring ideas to reality! I am a sophomore at [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). Everywhere I go, I bring a smile, motivation, and cute pictures of dogs and cats. You'll find me eager to get my hands dirty and keen to get started on something fresh and intriguing.
 
 <p align="center">
   <img src="./excited-dog.gif" height="300" width="344">
