@@ -4,7 +4,7 @@ Hi, I am Freyam. I love to bring ideas to reality! I am a sophomore at [Internat
   <img src="./excited-dog.gif" height="300" width="344">
 </p>
 
-I am still just a clueless retriever when it comes to finding my passion in a particular CS field as I find myself intrigued by almost anything new and exciting! More recently, I've been learning about the latest trends in the field of Network Security and Blockchain. NFTs sound fun (but what are they? idk).
+I am still just a clueless retriever running around in circles when it comes to finding my passion in a particular CS field as I find myself intrigued by almost anything new and exciting! More recently, I've been learning about the latest trends in the field of Network Security and Blockchain. NFTs sound fun (but what are they? idk).
 
 Here are some of my favourite (in no particular order) open source shenanigans:
 
@@ -23,8 +23,12 @@ Here are some of my favourite (in no particular order) open source shenanigans:
     -   Add HTML Repr for ProcessInterface Class and all its subclasses ([`distributed#5181`](https://github.com/dask/distributed/pull/5181))
     -   Google Summer of Code 2021 Project ([`dask-blog#107`](https://github.com/dask/dask-blog/pull/107))
 
+> GSOC was an amazing experience and I am very grateful to work with my mentors, Genevieve Buckley ([`GenevieveBuckley`](https://github.com/GenevieveBuckley)) and Martin Durant ([`martindurant`](https://github.com/martindurant)) in the summer! Learned so much from them!
+
 -   **Cirq ([`quantumlib/Cirq`](https://github.com/quantumlib/Cirq))** is Google's Quantum Framework for Noisy Intermediate Scale Quantum Computers.
     I am working on revamping the visualizations of Quantum circuits and adding interactive tools to illustrate the differences between circuits.
+
+> Cirq was something I tried as I wanted to know how the hell these quantum algorithms work and interact with each other. It's super cool and I am very excited about the features I would be adding to it.
 
 -   **LLVM Multi-Level Intermediate Representation ([`llvm/llvm-project::mlir`](https://github.com/llvm/llvm-project))** is a flexible infrastructure for modern optimizing compilers.
     I am working on designing a tool to visually illustrate the transformations in the Intermediate Representations of data flow in a program.
@@ -57,15 +61,25 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 > Anshul and I used to send the entire Harry Potter Book Series in BMP images to our friends using TETI! It freaked everyone else!
 
+-   **Markdown But Prettier ([`varshitakolipaka/MarkdownButPrettier`](https://github.com/varshitakolipaka/MarkdownButPrettier))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka) and I worked on to make Markdown more exciting by adding a bunch of features such as HTML Styles, and Graphviz Mind Maps, etc.
+
+> Varshita and I were crying while learning the ReGex for the parseres. OMG! Nothing works!
+
 ### 🦒 Personal Projects
 
 -   **Amigos ([`freyam/amigos`](https://github.com/freyam/amigos))** is a robust friend management application that suggests friends. Its sole mission is to unite compatible people across the world. Just tell the app a bit about yourself, and then let the magic begin.
 
+> Now, I am not saying that Amigos is the next Facebook or Instagram. It is just a simple CLI application that is built on the idea of friendship. Also, I don't think either of those Meta applications can show you a beautiful colorful graph of your friendship network. (Amigos: 1, Facebook/Instagram: 0)
+
 -   **GoodBoy ([`freyam/goodboy`](https://github.com/freyam/goodboy))** is a discord bot that contextually sends cute hand-picked animal pictures to wholesomify the atmosphere.
+
+> This has to be my personal favourite! I love it!
 
 -   **Freyam's real-time e=!mc^2 shell ([`freyam/fresh`](https://github.com/freyam/fresh))** is a linux shell which supports multiple commands and multiple arguments such as `cd`, `echo`, `history`, `ls`, `pinfo`, `pwd`, `repeat`, `jobs`, `sig`, `fg`, `bg`, `replay`, and signal handling. Basically, just a little behind zsh!
 
 -   **xv6-riscv ([`freyam/xv6-riscv`](https://github.com/freyam/xv6-riscv))** is a RISCV simulator for the xv6 operating system. I added several new features such as system tracing, scheduling mechanisms (RR, FCFS, PBS, etc.), and a Procdump.
+
+> OS is sooooooooooooooooo hard!
 
 -   **Specifi ([`freyam/Specifi`](https://github.com/freyam/Specifi))** is an Android app that gamifies the classification of trees (it can be any object). It is an offline-first application with an intuitive user interface for ease of use.
 
@@ -74,6 +88,8 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 -   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
 
 -   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#.
+
+> Guided Projects are so easy, but I get to learn so much from them. So, I always look forward to them.
 
 -   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random.
 
