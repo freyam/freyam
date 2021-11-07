@@ -87,7 +87,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 -   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
 
--   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#.
+-   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#. In reality, it's just a big ugly box, but who's stopping me from pitching it as the SpaceX's next utility rover (:
 
 > Guided Projects are easy, but I get to learn so much from them. So, I always look forward to them.
 
