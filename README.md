@@ -23,7 +23,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
     -   Add HTML Repr for ProcessInterface Class and all its subclasses ([`distributed#5181`](https://github.com/dask/distributed/pull/5181))
     -   Google Summer of Code 2021 Project ([`dask-blog#107`](https://github.com/dask/dask-blog/pull/107))
 
-> GSOC was an amazing experience and I am very grateful to work with my mentors, Genevieve Buckley ([`GenevieveBuckley`](https://github.com/GenevieveBuckley)) and Martin Durant ([`martindurant`](https://github.com/martindurant)) in the summer! Learned so much from them!
+> GSOC was an amazing experience and I am very grateful for working with my mentors, Genevieve Buckley ([`GenevieveBuckley`](https://github.com/GenevieveBuckley)) and Martin Durant ([`martindurant`](https://github.com/martindurant)) in the summer! Learned so much from them!
 
 -   **Cirq ([`quantumlib/Cirq`](https://github.com/quantumlib/Cirq))** is Google's Quantum Framework for Noisy Intermediate Scale Quantum Computers.
     I am working on revamping the visualizations of Quantum circuits and adding interactive tools to illustrate the differences between circuits.
@@ -61,9 +61,9 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 > Anshul and I used to send the entire Harry Potter Book Series in BMP images to our friends using TETI! It freaked everyone else!
 
--   **Markdown But Prettier ([`varshitakolipaka/MarkdownButPrettier`](https://github.com/varshitakolipaka/MarkdownButPrettier))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka) and I worked on to make Markdown more exciting by adding a bunch of features such as HTML Styles, and Graphviz Mind Maps, etc.
+-   **Markdown But Prettier ([`varshitakolipaka/MarkdownButPrettier`](https://github.com/varshitakolipaka/MarkdownButPrettier))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka) and I worked on to make Markdown more exciting by adding a bunch of features such as HTML Styles, and Graphviz Mind Maps.
 
-> Varshita and I were crying while learning the ReGex for the parseres. OMG! Nothing works!
+> Varshita and I were crying while learning the regex for the parsers. OMG! Nothing worked!
 
 ### 🦒 Personal Projects
 
@@ -89,7 +89,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 -   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#.
 
-> Guided Projects are so easy, but I get to learn so much from them. So, I always look forward to them.
+> Guided Projects are easy, but I get to learn so much from them. So, I always look forward to them.
 
 -   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random.
 
