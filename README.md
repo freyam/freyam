@@ -53,6 +53,10 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 ### 🦁 Team Projects
 
+-   **Specifi ([`isb-forest-governance/Specifi`](https://github.com/isb-forest-governance/Specifi))** is an Android app that gamifies the classification of trees (it can be any object). It is an offline-first application with an intuitive user interface for ease of use.
+
+> Specifi was the first of the many apps I developed for ISB!
+
 -   **Barkley (A Discord Butler) ([`varshitakolipaka/Barkley`](https://github.com/varshitakolipaka/Barkley))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka)) and I worked on to create a Discord bot that takes personal servers on Discord to a whole another level by providing a variety of features such as DM Style Tags, Message Sorter, Server Disguise, Tasklists, and more. We are still adding features when we feel like.
 
 > Varshita and I love Barkely so much! He was named after a dog butler from the famous show Modern Family.
@@ -69,7 +73,23 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 -   **Amigos ([`freyam/amigos`](https://github.com/freyam/amigos))** is a robust friend management application that suggests friends. Its sole mission is to unite compatible people across the world. Just tell the app a bit about yourself, and then let the magic begin.
 
-> Now, I am not saying that Amigos is the next Facebook or Instagram. It is just a simple CLI application that is built on the idea of friendship. Also, I don't think either of those Meta applications can show you a beautiful colorful graph of your friendship network. (Amigos: 1, Facebook/Instagram: 0)
+> Now, I am not saying that Amigos is the next Facebook or Instagram. It is just a simple CLI application that is built on the idea of friendship. But, I don't think either of those Meta applications can show you a beautiful color-rich graph of your friendship network. (Amigos: 1, Facebook/Instagram: 0)
+
+-   **Pirates of Sabarmati** ([`freyam/pirates-of-sabarmati`](https://github.com/freyam/pirates-of-sabarmati)) is a 3D game inspired by the Pirates of the Caribbean series. It is a game where you can explore the world of Sabarmati and fight with other pirates. It's a fun stress-relieving game that you can tune in and out anytime you want.
+
+> I am most proud of the intro of the game. Do check it out!
+
+<!-- -   **Bajaj the Realtor** ([`freyam/Bajaj-the-Realtor`](https://github.com/freyam/Bajaj-the-Realtor)) is a simple ML model that helps you find the best prices for your home. -->
+
+-   **Indiana Jones 1978** ([`freyam/indiana-jones-1978`](https://github.com/freyam/indiana-jones-1978)) is a 2D game inspired by the original Indiana Jones movie wherein Indiana Jones has to collect all the treasures while avoiding super fast AI-controlled enemies.
+
+> Note: No real AI has been deployed in the game! It's just a few if-elses!
+
+-   **Zaika** ([`freyam/zaika`](https://github.com/freyam/zaika)) is a modern user-centric campus food stalls management system for the youth. It is a web application that allows students to order food from the stalls and allow vendors to manage their stalls!
+
+-   **Algorithms with Mike Schur ([`freyam/algorithms-with-mike-schur`](https://github.com/freyam/algorithms-with-mike-schur)** is a three-part mini-series in which I demonstrate real-world applications of certain algorithms and offer viewers a visually engaging experience by leveraging their love of TV shows and disinterest in studies.
+
+> I take snippets of populat TV shows such as Brooklyn Nine-Nine and The Office (US) and visualize the usecases of algorithms in a fun way! There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail.
 
 -   **GoodBoy ([`freyam/goodboy`](https://github.com/freyam/goodboy))** is a discord bot that contextually sends cute hand-picked animal pictures to wholesomify the atmosphere.
 
@@ -81,36 +101,32 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 > OS is sooooooooooooooooo hard!
 
--   **Specifi ([`freyam/Specifi`](https://github.com/freyam/Specifi))** is an Android app that gamifies the classification of trees (it can be any object). It is an offline-first application with an intuitive user interface for ease of use.
-
 -   **Pikachu Objectifier ([`freyam/pikachu-objectifier`](https://github.com/freyam/pikachu-objectifier))** is a simple home-trained model for classifying pikachus. 481 Pikachus have been blatantly objectified in this repository. I take no responsibility for my actions.
 
--   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
+<!-- -   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
 
--   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#. In reality, it's just a big ugly box, but who's stopping me from pitching it as the SpaceX's next utility rover (:
-
-> Guided Projects are easy, but I get to learn so much from them. So, I always look forward to them.
+-   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#. In reality, it's just a big ugly box, but who's stopping me from pitching it as the SpaceX's next utility rover (: -->
 
 -   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random.
 
 > GYSA inspired me to create GoodBoy, the friendly little discord bot.
 
--   **Motivating A Goldfish ([`freyam/MotivatingAGoldfish`](https://github.com/freyam/MotivatingAGoldfish))** is a browser extension that shows a disappointed video of me everytime you open a New Tab. It is highly useful when you want to get some work one and don't want to be distracted.
+<!-- -   **Motivating A Goldfish ([`freyam/MotivatingAGoldfish`](https://github.com/freyam/MotivatingAGoldfish))** is a browser extension that shows a disappointed video of me everytime you open a New Tab. It is highly useful when you want to get some work one and don't want to be distracted.
 
 > Motivating A Goldfish is also useful to spook the goldfishes around you who are the laziest potatoes you have ever seen.
 
 -   **GSOC Organizations Scrapper ([`freyam/gsoc-orgs-scrapper`](https://github.com/freyam/gsoc-orgs-scrapper))** is a simple web scrapper that scrapes the Google Summer of Code organizations list and returns the Organizations, Technologies, Slots, Ideas Page, Contact in JSON format.
 
-> I made this project to show the mentors over at Dask that I could work around with DataFrames.
+> I made this project to show the mentors over at Dask that I could work around with DataFrames. -->
 
--   **Cat Classifier ([`freyam/cat-classifier`](https://github.com/freyam/cat-classifier))** is a classifier that classifies cats using a pre-trained L-layer Neural Network to classify cats vs non-cat images by using Logistic Regression and storing a cache to pass information from forward to back propagation. This was a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG.
+<!-- -   **Cat Classifier ([`freyam/cat-classifier`](https://github.com/freyam/cat-classifier))** is a classifier that classifies cats using a pre-trained L-layer Neural Network to classify cats vs non-cat images by using Logistic Regression and storing a cache to pass information from forward to back propagation. This was a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG.
 
--   **Number Signs Classifier ([`freyam/number-signs-classifier`](https://github.com/freyam/number-signs-classifier))** is a Deep Neural Network in Tensorflow to classify number signs by using Logistic Regression and applying optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp, and Adam. This was also a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG.
+-   **Number Signs Classifier ([`freyam/number-signs-classifier`](https://github.com/freyam/number-signs-classifier))** is a Deep Neural Network in Tensorflow to classify number signs by using Logistic Regression and applying optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp, and Adam. This was also a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG. -->
 
--   **Paradise Hotel ([`freyam/paradise-hotel`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers.
+<!-- -   **Paradise Hotel ([`freyam/paradise-hotel`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers.
 
-> MY FIRST EVER PROJECT! I fell in love with C++ after this project. Lekshmi ma'am loved it and showed it to the whole class.
+> MY FIRST EVER PROJECT! I fell in love with C++ after this project. Lekshmi ma'am loved it and showed it to the whole class. -->
 
--   **State Library ([`freyam/state-library`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers.
+<!-- -   **State Library ([`freyam/state-library`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers. -->
 
 These projects are all open source and I am always looking for new features and improvements to be added. So, if you feel like you can make any of these better, feel free to open a PR.
