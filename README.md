@@ -1,4 +1,4 @@
-Hi, I am Freyam. I love to bring ideas to reality! I am a sophomore at [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). Everywhere I go, I bring a smile, motivation, and cute pictures of dogs and cats. You'll find me eager to get my hands dirty and keen to get started on something fresh and intriguing.
+Hi, I am Freyam. I love to bring ideas to reality!
 
 <p align="center">
   <img src="./excited-dog.gif" height="300" width="344">
@@ -13,7 +13,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 -   **Dask ([`dask/dask`](https://github.com/dask/dask))** is a python library providing scalable analytics for big data computations.
     I worked on the project "[Visualizing the Performance Characteristics of Computations](https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/)" as part of the Google Summer of Code 2021. My project focuses on improving the visualization of the Graphical and the HTML Representations of Dask computations. I worked on making them more illustrative, engaging, and informative.
 
-    Some of the features I worked on:
+    <!-- Some of the features I worked on:
 
     -   Add node size scaling to the Graphviz output for the high level graphs ([`dask#7869`](https://github.com/dask/dask/pull/7869))
     -   Add dask.array SVG to the HTML Repr ([`dask#7886`](https://github.com/dask/dask/pull/7886))
@@ -21,7 +21,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
     -   Add colors to represent high level layer types ([`dask#7974`](https://github.com/dask/dask/pull/7974))
     -   Add HTML Repr for Security Class ([`distributed#5178`](https://github.com/dask/distributed/pull/5178))
     -   Add HTML Repr for ProcessInterface Class and all its subclasses ([`distributed#5181`](https://github.com/dask/distributed/pull/5181))
-    -   Google Summer of Code 2021 Project ([`dask-blog#107`](https://github.com/dask/dask-blog/pull/107))
+    -   Google Summer of Code 2021 Project ([`dask-blog#107`](https://github.com/dask/dask-blog/pull/107)) -->
 
 > GSOC was an amazing experience and I am very grateful for working with my mentors, Genevieve Buckley ([`GenevieveBuckley`](https://github.com/GenevieveBuckley)) and Martin Durant ([`martindurant`](https://github.com/martindurant)) in the summer! Learned so much from them!
 
