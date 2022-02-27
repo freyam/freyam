@@ -89,7 +89,7 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 -   **Algorithms with Mike Schur ([`freyam/algorithms-with-mike-schur`](https://github.com/freyam/algorithms-with-mike-schur)** is a three-part mini-series in which I demonstrate real-world applications of certain algorithms and offer viewers a visually engaging experience by leveraging their love of TV shows and disinterest in studies.
 
-> I take snippets of populat TV shows such as Brooklyn Nine-Nine and The Office (US) and visualize the usecases of algorithms in a fun way! There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail.
+> I take snippets of popular TV shows such as Brooklyn Nine-Nine and The Office (US) and visualize the usecases of algorithms in a fun way! There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail.
 
 -   **GoodBoy ([`freyam/goodboy`](https://github.com/freyam/goodboy))** is a discord bot that contextually sends cute hand-picked animal pictures to wholesomify the atmosphere.
 
