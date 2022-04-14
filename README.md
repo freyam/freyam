@@ -79,6 +79,12 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 
 > I am most proud of the intro of the game. Do check it out!
 
+-   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random. It's hosted on the Google Chrome Web Store! Link: https://chrome.google.com/webstore/detail/gif-your-sorrows-away/hepbomdbbmdmbdefdlkiadmapjclnfob
+
+> GYSA inspired me to create GoodBoy, the friendly little discord bot.
+
+-   **Raiders of Hamdan ([`freyam/raiders-of-hamdan`](https://github.com/freyam/raiders-of-hamdan)** tells the story of the indestructible kingdom of the Hamdan. In this CLI game, you play as the Ruler of the Electra Kingdom who is trying to bring down the legacy of Hamdan.
+
 <!-- -   **Bajaj the Realtor** ([`freyam/Bajaj-the-Realtor`](https://github.com/freyam/Bajaj-the-Realtor)) is a simple ML model that helps you find the best prices for your home. -->
 
 -   **Indiana Jones 1978** ([`freyam/indiana-jones-1978`](https://github.com/freyam/indiana-jones-1978)) is a 2D game inspired by the original Indiana Jones movie wherein Indiana Jones has to collect all the treasures while avoiding super fast AI-controlled enemies.
@@ -106,10 +112,6 @@ Here are some of my favourite (in no particular order) open source shenanigans:
 <!-- -   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
 
 -   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#. In reality, it's just a big ugly box, but who's stopping me from pitching it as the SpaceX's next utility rover (: -->
-
--   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random.
-
-> GYSA inspired me to create GoodBoy, the friendly little discord bot.
 
 <!-- -   **Motivating A Goldfish ([`freyam/MotivatingAGoldfish`](https://github.com/freyam/MotivatingAGoldfish))** is a browser extension that shows a disappointed video of me everytime you open a New Tab. It is highly useful when you want to get some work one and don't want to be distracted.
 
