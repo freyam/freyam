@@ -1,5 +1,8 @@
 <p align="center">
     Hi, I am Freyam. I love to bring ideas to reality!
+</p>
+
+<p align="center">
     <img src="./doggo.gif" height="300" width="344">
 </p>
 
