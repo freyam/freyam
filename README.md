@@ -1,134 +1,215 @@
-Hi, I am Freyam. I love to bring ideas to reality!
-
 <p align="center">
-  <img src="./excited-dog.gif" height="300" width="344">
+    Hi, I am Freyam. I love to bring ideas to reality!
+    <img src="./doggo.gif" height="300" width="344">
 </p>
 
-I am still just a clueless retriever running around in circles when it comes to finding my passion in a particular CS field as I find myself intrigued by almost anything new and exciting! More recently, I've been learning about the latest trends in the field of Network Security and Blockchain. NFTs sound fun (but what are they? idk).
+<p align="center">
+I'm an avid admirer of the open-source world. I have had the pleasure of contributing to and being part of some of the most incredible communities such as Dask, Google Cirq, Joomla!, OpenMRS, LibreHealth, RTEMS and CCExtractor. I'm grateful to Google Summer of Code for kindling my love for open-source, first as a student and then as a mentor!
+</p>
 
-Here are some of my favourite (in no particular order) open source shenanigans:
+Here are some of my favourite (in no particular order) open source projects:
 
-### 🐧 Contributions
+### 🐧 Community Projects
 
--   **Dask ([`dask/dask`](https://github.com/dask/dask))** is a python library providing scalable analytics for big data computations.
-    I worked on the project "[Visualizing the Performance Characteristics of Computations](https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/)" as part of the Google Summer of Code 2021. My project focuses on improving the visualization of the Graphical and the HTML Representations of Dask computations. I worked on making them more illustrative, engaging, and informative.
+<details>
+<summary><a href="https://github.com/dask/dask"><code>dask</code></a></summary>
 
-    <!-- Some of the features I worked on:
+Dask is a python library providing scalable analytics for big data computations.
 
-    -   Add node size scaling to the Graphviz output for the high level graphs ([`dask#7869`](https://github.com/dask/dask/pull/7869))
-    -   Add dask.array SVG to the HTML Repr ([`dask#7886`](https://github.com/dask/dask/pull/7886))
-    -   Add tooltips to graphviz ([`dask#7973`](https://github.com/dask/dask/pull/7973))
-    -   Add colors to represent high level layer types ([`dask#7974`](https://github.com/dask/dask/pull/7974))
-    -   Add HTML Repr for Security Class ([`distributed#5178`](https://github.com/dask/distributed/pull/5178))
-    -   Add HTML Repr for ProcessInterface Class and all its subclasses ([`distributed#5181`](https://github.com/dask/distributed/pull/5181))
-    -   Google Summer of Code 2021 Project ([`dask-blog#107`](https://github.com/dask/dask-blog/pull/107)) -->
+I worked on the project "[Visualizing the Performance Characteristics of Computations](https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/)" as part of the Google Summer of Code 2021. My project focuses on improving the visualization of the Graphical and the HTML Representations of Dask computations. I worked on making them more illustrative, engaging, and informative.
 
-> GSOC was an amazing experience and I am very grateful for working with my mentors, Genevieve Buckley ([`GenevieveBuckley`](https://github.com/GenevieveBuckley)) and Martin Durant ([`martindurant`](https://github.com/martindurant)) in the summer! Learned so much from them!
+</details>
 
--   **Cirq ([`quantumlib/Cirq`](https://github.com/quantumlib/Cirq))** is Google's Quantum Framework for Noisy Intermediate Scale Quantum Computers.
-    I am working on revamping the visualizations of Quantum circuits and adding interactive tools to illustrate the differences between circuits.
+<details>
+<summary><a href="https://github.com/quantumlib/Cirq"><code>Cirq</code></a></summary>
 
-> Cirq was something I tried as I wanted to know how the hell these quantum algorithms work and interact with each other. It's super cool and I am very excited about the features I would be adding to it.
+Cirq is Google's Quantum Framework for Noisy Intermediate Scale Quantum Computers. I worked on revamping the visualizations of Quantum circuits and adding interactive tools to illustrate the differences between circuits.
 
--   **LLVM Multi-Level Intermediate Representation ([`llvm/llvm-project::mlir`](https://github.com/llvm/llvm-project))** is a flexible infrastructure for modern optimizing compilers.
-    I am working on designing a tool to visually illustrate the transformations in the Intermediate Representations of data flow in a program.
+</details>
 
-> I also presented at the weekly MLIR meet up regarding my work here. The recording of that meeting can be found [here](https://youtu.be/fOz0C-X2ma4).
+<details>
+<summary><a href="https://github.com/llvm/llvm-project"><code>llvm-project</code></a></summary>
 
--   **OpenMRS ([`openmrs`](https://github.com/openmrs))** is an EMR storage and retrieval system for treating patients around the globe.
-    As part of the Google Code-in 2018, I worked with a team of students creating outreach and marketing content.
+LLVM Multi-Level Intermediate Representation is a flexible infrastructure for modern optimizing compilers. I worked on designing a tool to visually illustrate the transformations in the Intermediate Representations of data flow in a program.
 
--   **LibreHealth ([`librehealthIO`](https://github.com/librehealthIO))** is a foundation of a worldwide ecosystem of open source Health IT innovation.
-    As part of the Google Code-in 2019, I worked with a team of designers spearheading the design front.
+I also presented at the weekly MLIR meet up regarding my work here. The recording of that meeting can be found on <a href="https://youtu.be/fOz0C-X2ma4">YouTube</a>.
 
-> The Google Code-in contributions can be found at [`freyam/google-code-in`](https://github.com/freyam/google-code-in)
+</details>
 
-### 🐢 Community Projects
+<details>
+<summary><a href="https://github.com/openmrs"><code>openmrs</code></a></summary>
 
--   **Carbonite ([`OSDG-IIITH/Carbonite`](https://github.com/OSDG-IIITH/Carbonite))** is a Discord Bot that takes code messages and converts them into beautiful images by using [Carbon](https://carbon.now.sh). I worked on adding theme functionality so users could apply custom themes to their code snippets.
+OpenMRS is an EMR storage and retrieval system for treating patients around the globe. As part of the Google Code-in 2018, I worked with a team of students creating outreach and marketing content.
 
--   **E-Cell's Website ([`IIIT-ECell/website_2019`](https://github.com/IIIT-ECell/website_2019))**. I worked on the frontend of the website, https://ecell.iiit.ac.in/.
+</details>
 
--   **Megathon's Website ([`IIIT-ECell/megathon_2019`](https://github.com/IIIT-ECell/megathon_2019)**. I worked on the frontend of the website, https://megathon.in/.
+<details>
+<summary><a href="https://github.com/librehealthIO"><code>librehealthIO</code></a></summary>
+
+LibreHealth (librehealthIO) is a foundation of a worldwide ecosystem of open source Health IT innovation. As part of the Google Code-in 2019, I worked with a team of designers spearheading the design front.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/OSDG-IIITH/Carbonite"><code>Carbonite</code></a></summary>
+
+Carbonite is a Discord Bot that takes code messages and converts them into beautiful images by using Carbon. I worked on adding theme functionality so users could apply custom themes to their code snippets.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/IIIT-ECell/website_2019"><code>website_2019</code></a></summary>
+
+Entrepreneurship Cell, IIIT Hyderabad is a non-profit organization run by students, and has been established with the objective of creating, manifesting and guiding the entrepreneurial spirit in the student community and to encourage them to be successful entrepreneurs. We want to build an ecosystem where networking and knowledge sharing can happen. To this end, we conduct several events, seminars and workshops both for students of and beyond our college for the purpose of cultivating this entrepreneurial spirit.
+
+I worked on the frontend of the website, https://ecell.iiit.ac.in/.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/IIIT-ECell/megathon_2019"><code>megathon_2019</code></a></summary>
+
+Started in 2016, Megathon is Hyderabad's largest student-run Hackathon.
+
+Organised by E-Cell IIIT Hyderabad with the intention of promoting the spirit of entrepreneurship and development among the student community in and around the city, it has gotten bigger and more successful over the years; drawing 450 participants in its first year, upwards of 600 in its second, and over 1000 in its latest rendition.
+
+I worked on the frontend of the website, https://megathon.in/.
+
+</details>
+
+### 🐢 Corporate Projects
+
+<details>
+<summary><a href="https://github.com/Forest-Economy-Alliance/SpecieFi"><code>SpecieFi</code></a></summary>
+
+Imagine you are an illiterate farmer owning 10 acres of forest land in a rural region of India, who has no idea about smartphones or modern technologies. How does one create a multi-layer neural network classifying forest species with the help of data supplied by these farmers?
+
+Welcome, SpecieFi - a first-of-its-kind offline-first application that enables the community-based classification of images through a simple game. It is an accessibility-focused application for users with limited reading and writing capacity. It can be used across multiple users for the classification of images, specially designed for the classification of forest species.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Forest-Economy-Alliance/FormiFi"><code>FormiFi</code></a></summary>
+
+FormiFi is a form filling utility that has been developed to facilitate and monitor the process of claim filing for distribution of CFR as part of the Forest Governance initiative. It provides analytics support, offline mode and will soon be available in multiple languages.
+
+</details>
 
 ### 🦁 Team Projects
 
--   **Specifi ([`isb-forest-governance/Specifi`](https://github.com/isb-forest-governance/Specifi))** is an Android app that gamifies the classification of trees (it can be any object). It is an offline-first application with an intuitive user interface for ease of use.
+<details>
+<summary><a href="https://github.com/varshitakolipaka/Barkley"><code>Barkley</code></a></summary>
 
-> Specifi was the first of the many apps I developed for ISB!
+Barkley (A Discord Butler) is a project <a href="https://github/varshitakolipaka">Varshita</a> and I worked on to create a Discord bot that takes personal servers on Discord to a whole another level by providing a variety of features such as DM Style Tags, Message Sorter, Server Disguise, Tasklists, and more. We are still adding features when we feel like.
 
--   **Barkley (A Discord Butler) ([`varshitakolipaka/Barkley`](https://github.com/varshitakolipaka/Barkley))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka)) and I worked on to create a Discord bot that takes personal servers on Discord to a whole another level by providing a variety of features such as DM Style Tags, Message Sorter, Server Disguise, Tasklists, and more. We are still adding features when we feel like.
+</details>
 
-> Varshita and I love Barkely so much! He was named after a dog butler from the famous show Modern Family.
+<details>
+<summary><a href="https://github.com/varshitakolipaka/MarkdownButPrettier"><code>MarkdownButPrettier</code></a></summary>
 
--   **TETI (Text Encryption Through Images) ([`x3z3/TETI`](https://github.com/x3z3/TETI))** is a project Anshul ([`x3z3`](https://github.com/x3z3/)) and I worked on to encrypt text messages using BMP images by using a custom sophisticated steganographical model for the encryption.
+Markdown But Prettier is a project <a href="https://github/varshitakolipaka">Varshita</a> and I worked on to make Markdown more exciting by adding a bunch of features such as HTML Styles, and Graphviz Mind Maps.
 
-> Anshul and I used to send the entire Harry Potter Book Series in BMP images to our friends using TETI! It freaked everyone else!
+</details>
 
--   **Markdown But Prettier ([`varshitakolipaka/MarkdownButPrettier`](https://github.com/varshitakolipaka/MarkdownButPrettier))** is a project Varshita ([`varshitakolipaka`](https://github.com/varshitakolipaka) and I worked on to make Markdown more exciting by adding a bunch of features such as HTML Styles, and Graphviz Mind Maps.
+<details>
+<summary><a href="https://github.com/x3z3/TETI"><code>TETI</code></a></summary>
 
-> Varshita and I were crying while learning the regex for the parsers. OMG! Nothing worked!
+TETI (Text Encryption Through Images) is a project <a href="https://github/x3z3">Anshul</a> and I worked on to encrypt text messages using BMP images by using a custom sophisticated steganographical model for the encryption.
+
+Anshul and I used TETI to send the entire Harry Potter Book Series in BMP images to our friends! Everyone was amazed at the simplicity.
+
+</details>
 
 ### 🦒 Personal Projects
 
--   **Amigos ([`freyam/amigos`](https://github.com/freyam/amigos))** is a robust friend management application that suggests friends. Its sole mission is to unite compatible people across the world. Just tell the app a bit about yourself, and then let the magic begin.
+<details>
+<summary><a href="https://github.com/freyam/amigos"><code>amigos</code></a></summary>
 
-> Now, I am not saying that Amigos is the next Facebook or Instagram. It is just a simple CLI application that is built on the idea of friendship. But, I don't think either of those Meta applications can show you a beautiful color-rich graph of your friendship network. (Amigos: 1, Facebook/Instagram: 0)
+Amigos is a robust friend management application that suggests friends. Its sole mission is to unite compatible people across the world. Just tell the app a bit about yourself, and then let the magic begin.
 
--   **Pirates of Sabarmati** ([`freyam/pirates-of-sabarmati`](https://github.com/freyam/pirates-of-sabarmati)) is a 3D game inspired by the Pirates of the Caribbean series. It is a game where you can explore the world of Sabarmati and fight with other pirates. It's a fun stress-relieving game that you can tune in and out anytime you want.
+Brownie points: Amigos shows you a beautiful colourful graph of your friends network.
 
-> I am most proud of the intro of the game. Do check it out!
+</details>
 
--   **GYSA (GIF Your Sorrows Away) ([`freyam/gif-your-sorrows-away `](https://github.com/freyam/gif-your-sorrows-away))** is a browser extension that displays adorable GIFs of cute animals on your screen at random. It's hosted on the Google Chrome Web Store! Link: https://chrome.google.com/webstore/detail/gif-your-sorrows-away/hepbomdbbmdmbdefdlkiadmapjclnfob
+<details>
+<summary><a href="https://github.com/freyam/pirates-of-sabarmati"><code>pirates-of-sabarmati</code></a></summary>
 
-> GYSA inspired me to create GoodBoy, the friendly little discord bot.
+Pirates of Sabarmati is a 3D game inspired by the Pirates of the Caribbean series. It is a game where you can explore the world of Sabarmati and fight with other pirates. It's a fun stress-relieving game that you can tune in and out anytime you want.
 
--   **Raiders of Hamdan ([`freyam/raiders-of-hamdan`](https://github.com/freyam/raiders-of-hamdan)** tells the story of the indestructible kingdom of the Hamdan. In this CLI game, you play as the Ruler of the Electra Kingdom who is trying to bring down the legacy of Hamdan.
+</details>
 
-<!-- -   **Bajaj the Realtor** ([`freyam/Bajaj-the-Realtor`](https://github.com/freyam/Bajaj-the-Realtor)) is a simple ML model that helps you find the best prices for your home. -->
+<details>
+<summary><a href="https://github.com/freyam/gif-your-sorrows-away"><code>gif-your-sorrows-away</code></a></summary>
 
--   **Indiana Jones 1978** ([`freyam/indiana-jones-1978`](https://github.com/freyam/indiana-jones-1978)) is a 2D game inspired by the original Indiana Jones movie wherein Indiana Jones has to collect all the treasures while avoiding super fast AI-controlled enemies.
+GYSA (GIF Your Sorrows Away) is a browser extension that displays adorable GIFs of cute animals on your screen at random. It's available on the <a href="https://chrome.google.com/webstore/detail/gif-your-sorrows-away/hepbomdbbmdmbdefdlkiadmapjclnfob">Google Chrome Web Store</a> and the <a href="https://addons.mozilla.org/en-US/firefox/addon/gif-your-sorrows-away/">Firefox Addons Store</a>!
 
-> Note: No real AI has been deployed in the game! It's just a few if-elses!
+</details>
 
--   **Zaika** ([`freyam/zaika`](https://github.com/freyam/zaika)) is a modern user-centric campus food stalls management system for the youth. It is a web application that allows students to order food from the stalls and allow vendors to manage their stalls!
+<details>
+<summary><a href="https://github.com/freyam/raiders-of-hamdan"><code>raiders-of-hamdan</code></a></summary>
 
--   **Algorithms with Mike Schur ([`freyam/algorithms-with-mike-schur`](https://github.com/freyam/algorithms-with-mike-schur)** is a three-part mini-series in which I demonstrate real-world applications of certain algorithms and offer viewers a visually engaging experience by leveraging their love of TV shows and disinterest in studies.
+Raiders of Hamdan is a 2D CLI game that depicts the story of the indestructible kingdom of the Hamdan. In this game, you play as the Ruler of the Electra Kingdom who is trying to bring down the legacy of Hamdan.
 
-> I take snippets of popular TV shows such as Brooklyn Nine-Nine and The Office (US) and visualize the usecases of algorithms in a fun way! There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail.
+</details>
 
--   **GoodBoy ([`freyam/goodboy`](https://github.com/freyam/goodboy))** is a discord bot that contextually sends cute hand-picked animal pictures to wholesomify the atmosphere.
+<details>
+<summary><a href="https://github.com/freyam/indiana-jones-1978"><code>indiana-jones-1978</code></a></summary>
 
-> This has to be my personal favourite! I love it!
+Indiana Jones 1978 is a 2D game inspired by the original Indiana Jones movie wherein Indiana Jones has to collect all the treasures while avoiding super fast AI-controlled enemies.
 
--   **Freyam's real-time e=!mc^2 shell ([`freyam/fresh`](https://github.com/freyam/fresh))** is a linux shell which supports multiple commands and multiple arguments such as `cd`, `echo`, `history`, `ls`, `pinfo`, `pwd`, `repeat`, `jobs`, `sig`, `fg`, `bg`, `replay`, and signal handling. Basically, just a little behind zsh!
+</details>
 
--   **xv6-riscv ([`freyam/xv6-riscv`](https://github.com/freyam/xv6-riscv))** is a RISCV simulator for the xv6 operating system. I added several new features such as system tracing, scheduling mechanisms (RR, FCFS, PBS, etc.), and a Procdump.
+<details>
+<summary><a href="https://github.com/freyam/zaika"><code>zaika</code></a></summary>
 
-> OS is sooooooooooooooooo hard!
+Zaika is a modern user-centric campus food stalls management system for the youth. It is a web application that allows students to order food from the stalls and allow vendors to manage their stalls!
 
--   **Pikachu Objectifier ([`freyam/pikachu-objectifier`](https://github.com/freyam/pikachu-objectifier))** is a simple home-trained model for classifying pikachus. 481 Pikachus have been blatantly objectified in this repository. I take no responsibility for my actions.
+</details>
 
-<!-- -   **Object Detection with YOLOv3 ([`freyam/object-detection`](https://github.com/freyam/object-detection))** is a project I worked on to detect daily-used objects in images. This was a guided project that I developed to learn the necessary skills to implement my own classifier (Pikachu Classifer).
+<details>
+<summary><a href="https://github.com/freyam/algorithms-with-mike-schur"><code>algorithms-with-mike-schur</code></a></summary>
 
--   **Terrain Maneuver ([`freyam/TerrainManeuver`](https://github.com/freyam/TerrainManeuver))** is a cross-platform Unity AR mobile application that maps terrain in real time using the mobile's camera utility. This was a guided project that I developed to learn C#. In reality, it's just a big ugly box, but who's stopping me from pitching it as the SpaceX's next utility rover (: -->
+Algorithms with Mike Schur is a three-part mini-series in which I demonstrate real-world applications of certain algorithms and offer viewers a visually engaging experience by leveraging their love of TV shows and disinterest in studies.
 
-<!-- -   **Motivating A Goldfish ([`freyam/MotivatingAGoldfish`](https://github.com/freyam/MotivatingAGoldfish))** is a browser extension that shows a disappointed video of me everytime you open a New Tab. It is highly useful when you want to get some work one and don't want to be distracted.
+I take snippets of popular TV shows such as Brooklyn Nine-Nine and The Office (US) and visualize the usecases of algorithms in a fun way! There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail.
 
-> Motivating A Goldfish is also useful to spook the goldfishes around you who are the laziest potatoes you have ever seen.
+</details>
 
--   **GSOC Organizations Scrapper ([`freyam/gsoc-orgs-scrapper`](https://github.com/freyam/gsoc-orgs-scrapper))** is a simple web scrapper that scrapes the Google Summer of Code organizations list and returns the Organizations, Technologies, Slots, Ideas Page, Contact in JSON format.
+<details>
+<summary><a href="https://github.com/freyam/goodboy"><code>goodboy</code></a></summary>
 
-> I made this project to show the mentors over at Dask that I could work around with DataFrames. -->
+GoodBoy is a Discord bot that leverages a custom-trained multi-class sentiment analyser RoBERTa to send adorable media by understanding the current context of the conversations.
 
-<!-- -   **Cat Classifier ([`freyam/cat-classifier`](https://github.com/freyam/cat-classifier))** is a classifier that classifies cats using a pre-trained L-layer Neural Network to classify cats vs non-cat images by using Logistic Regression and storing a cache to pass information from forward to back propagation. This was a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG.
+</details>
 
--   **Number Signs Classifier ([`freyam/number-signs-classifier`](https://github.com/freyam/number-signs-classifier))** is a Deep Neural Network in Tensorflow to classify number signs by using Logistic Regression and applying optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp, and Adam. This was also a guided project I made as part of the Deep Learning Specialization Course taught by Andrew NG. -->
+<details>
+<summary><a href="https://github.com/freyam/fresh"><code>fresh</code></a></summary>
 
-<!-- -   **Paradise Hotel ([`freyam/paradise-hotel`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers.
+<b>F</b>reyam's <b>r</b>eal-time <b>e</b>=!mc^2 <b>sh</b>ell is a linux shell which supports multiple commands and multiple arguments such as <code>cd</code>, <code>echo</code>, <code>history</code>, <code>ls</code>, <code>pinfo</code>, <code>pwd</code>, <code>repeat</code>, <code>jobs</code>, <code>sig</code>, <code>fg</code>, <code>bg</code>, <code>replay</code>, and signal handling. Basically, just a little behind zsh!
 
-> MY FIRST EVER PROJECT! I fell in love with C++ after this project. Lekshmi ma'am loved it and showed it to the whole class. -->
+</details>
 
-<!-- -   **State Library ([`freyam/state-library`](https://github.com/freyam/paradise-hotel))** is a CLI application implementing critical functions (add, search, modify, display, delete, payment, issue & return) that are required in a library by using an optimised database of books and customers. -->
+<details>
+<summary><a href="https://github.com/freyam/xv6-riscv"><code>xv6-riscv</code></a></summary>
 
-These projects are all open source and I am always looking for new features and improvements to be added. So, if you feel like you can make any of these better, feel free to open a PR.
+xv6-riscv is a RISCV simulator for the xv6 operating system. I added several new features such as system tracing, scheduling mechanisms (RR, FCFS, PBS, etc.), and a Procdump.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/freyam/goBooks"><code>goBooks</code></a></summary>
+
+goBooks is an intelligent bookshelf which embraces the simplicity of people's love for their books.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/freyam/pikachu-objectifier"><code>pikachu-objectifier</code></a></summary>
+
+Pikachu Objectifier is a simple home-trained model for classifying pikachus. 481 Pikachus have been blatantly objectified in this repository. I take no responsibility for my actions.
+
+</details>
+
+<br>
+
+These projects hold a special place in my heart, and I am constantly seeking additional features and upgrades to integrate. So, if you want to work with me on any of my projects, feel free to connect with me.
