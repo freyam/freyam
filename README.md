@@ -12,7 +12,8 @@ I'm an avid admirer of the open-source world. I have had the pleasure of contrib
 
 Here are some of my favourite (in no particular order) open source projects:
 
-### 🐧 Community Projects
+<details>
+<summary><h3>🐧 Community Projects</h3></summary>
 
 <details>
 <summary><a href="https://github.com/dask/dask"><code>dask</code></a></summary>
@@ -80,7 +81,10 @@ I worked on the frontend of the website, https://megathon.in/.
 
 </details>
 
-### 🐢 Corporate Projects
+</details>
+
+<details>
+<summary><h3>🐢 Corporate Projects</h3></summary>
 
 <details>
 <summary><a href="https://github.com/Forest-Economy-Alliance/SpecieFi"><code>SpecieFi</code></a></summary>
@@ -98,7 +102,10 @@ FormiFi is a form filling utility that has been developed to facilitate and moni
 
 </details>
 
-### 🦁 Team Projects
+</details>
+
+<details>
+<summary><h3>🦁 Team Projects</h3></summary>
 
 <details>
 <summary><a href="https://github.com/varshitakolipaka/Barkley"><code>Barkley</code></a></summary>
@@ -123,7 +130,10 @@ Anshul and I used TETI to send the entire Harry Potter Book Series in BMP images
 
 </details>
 
-### 🦒 Personal Projects
+</details>
+
+<details>
+<summary><h3>🦒 Personal Projects</h3></summary>
 
 <details>
 <summary><a href="https://github.com/freyam/amigos"><code>amigos</code></a></summary>
@@ -213,6 +223,6 @@ Pikachu Objectifier is a simple home-trained model for classifying pikachus. 481
 
 </details>
 
-<br>
+</details>
 
 These projects hold a special place in my heart, and I am constantly seeking additional features and upgrades to integrate. So, if you want to work with me on any of my projects, feel free to connect with me.
