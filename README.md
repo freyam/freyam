@@ -161,9 +161,9 @@ GoodBoy is a Discord bot that leverages a custom-trained multi-class sentiment a
 <b>F</b>reyam's <b>r</b>eal-time <b>e</b>=!mc^2 <b>sh</b>ell is a linux shell which supports multiple commands and multiple arguments such as <code>cd</code>, <code>echo</code>, <code>history</code>, <code>ls</code>, <code>pinfo</code>, <code>pwd</code>, <code>repeat</code>, <code>jobs</code>, <code>sig</code>, <code>fg</code>, <code>bg</code>, <code>replay</code>, and signal handling. Basically, just a little behind zsh!
 
 <br>
-<a href="https://github.com/freyam/xv6-riscv"><code>xv6-riscv</code></a>
+<a href="https://github.com/freyam/frxv6"><code>frxv6</code></a>
 
-xv6-riscv is a RISCV simulator for the xv6 operating system. I added several new features such as system tracing, scheduling mechanisms (RR, FCFS, PBS, etc.), and a Procdump.
+frxv6 is a RISCV simulator for the xv6 operating system. I added several new features such as system tracing, scheduling mechanisms (RR, FCFS, PBS, etc.), and a Procdump.
 
 <br>
 <a href="https://github.com/freyam/goBooks"><code>goBooks</code></a>
